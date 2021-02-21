@@ -1,6 +1,6 @@
 {
   "name": "@regosinc/dotenv-expand",
-  "version": "5.1.2",
+  "version": "5.1.3",
   "description": "Expand environment variables using dotenv",
   "main": "lib/main.js",
   "scripts": {
